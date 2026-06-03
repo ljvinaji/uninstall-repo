@@ -10,3 +10,4 @@ Ovo je jednostavan README fajl koji služi za testiranje repozitorijuma.
 Samo otvori glavni fajl u svom okruženju.
 test
 asdsd
+dfg
